@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+.idea
+*.egg-info
+
+dataset/*
+!dataset/.gitkeep
+experiment/*
+!experiment/.gitkeep
